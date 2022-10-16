@@ -4,10 +4,10 @@ using System.Text;
 
 namespace PetApp.Entity
 {
-    public class HotelCategory
+    public class PetCategory
     {
-        public int HotelId { get; set; }
-        public Hotel Hotel { get; set; }
+        public int PetId { get; set; }
+        public Hotel Pet { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
     }

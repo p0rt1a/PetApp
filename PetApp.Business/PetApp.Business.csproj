@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PetApp.Data\PetApp.Data.csproj" />
+    <ProjectReference Include="..\PetApp.Entity\PetApp.Entity.csproj" />
+  </ItemGroup>
+
 </Project>

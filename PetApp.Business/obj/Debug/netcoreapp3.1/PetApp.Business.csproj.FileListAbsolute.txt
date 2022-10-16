@@ -1,0 +1,10 @@
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Business.deps.json
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Business.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Business.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.AssemblyInfo.cs
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.pdb

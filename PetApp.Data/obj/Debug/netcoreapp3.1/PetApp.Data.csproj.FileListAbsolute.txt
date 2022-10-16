@@ -1,0 +1,16 @@
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Data.deps.json
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Data.runtimeconfig.json
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Data.runtimeconfig.dev.json
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Data.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Data.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Entity.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\bin\Debug\netcoreapp3.1\PetApp.Entity.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.AssemblyInfo.cs
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.csproj.CopyComplete
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Data\obj\Debug\netcoreapp3.1\PetApp.Data.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\bin\Debug\netcoreapp3.1\PetApp.Entity.deps.json
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\bin\Debug\netcoreapp3.1\PetApp.Entity.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\bin\Debug\netcoreapp3.1\PetApp.Entity.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.AssemblyInfo.cs
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Entity\obj\Debug\netcoreapp3.1\PetApp.Entity.pdb

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PetApp.Data.Abstract
 {
-    public interface IHotelRepository : IRepository<Hotel>
+    public interface IOwnerRepository : IRepository<Owner>
     {
     }
 }

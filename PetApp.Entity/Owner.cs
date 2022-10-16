@@ -4,10 +4,12 @@ using System.Text;
 
 namespace PetApp.Entity
 {
-    public class Pet
+    public class Owner
     {
-        public int PetId { get; set; }
+        public int OwnerId { get; set; }
         public string Name { get; set; }
+        public string Surname { get; set; }
+        public int Age { get; set; }
         public List<PetOwners> PetOwners { get; set; }
     }
 }

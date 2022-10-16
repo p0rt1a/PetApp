@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PetApp.Data.Concrete.EfCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +27,7 @@ namespace PetApp.WebUI
 
             if (env.IsDevelopment())
             {
+                SeedDatabase.Seed();
                 app.UseDeveloperExceptionPage();
             }
 

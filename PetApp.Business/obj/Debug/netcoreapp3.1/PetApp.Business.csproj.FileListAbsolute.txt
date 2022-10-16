@@ -8,3 +8,8 @@ C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.
 C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.csproj.CoreCompileInputs.cache
 C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.dll
 C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Data.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Entity.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Data.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\bin\Debug\netcoreapp3.1\PetApp.Entity.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.Business\obj\Debug\netcoreapp3.1\PetApp.Business.csproj.CopyComplete

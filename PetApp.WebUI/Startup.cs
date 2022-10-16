@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PetApp.Business.Abstract;
+using PetApp.Business.Concrete;
+using PetApp.Data.Abstract;
 using PetApp.Data.Concrete.EfCore;
 using System;
 using System.Collections.Generic;
@@ -18,6 +21,9 @@ namespace PetApp.WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped<IPetService, PetManager>();
+            services.AddScoped<IPetRepository, EfCorePetRepository>();
+            services.AddScoped<IOwnerRepository, EfCoreOwnerRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,7 +43,7 @@ namespace PetApp.WebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller}/{action}"
+                    pattern: "{controller=Home}/{action=Index}"
                     );
             });
         }

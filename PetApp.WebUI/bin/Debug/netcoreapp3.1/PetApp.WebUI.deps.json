@@ -741,6 +741,10 @@
         }
       },
       "PetApp.Business/1.0.0": {
+        "dependencies": {
+          "PetApp.Data": "1.0.0",
+          "PetApp.Entity": "1.0.0"
+        },
         "runtime": {
           "PetApp.Business.dll": {}
         },

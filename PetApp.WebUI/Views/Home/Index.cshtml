@@ -1,8 +1,23 @@
-﻿<!DOCTYPE html>
+﻿@model PetApp.WebUI.ViewModels.PetViewModel;
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8"/>
+    <meta charset="utf-8" />
     <title>Document</title>
 </head>
-<body></body>
+<body>
+    @foreach (var item in Model.Pets)
+    {
+        <div>
+            <h2>@item.Name</h2>
+        </div>
+    }
+    @foreach (var item in Model.Owners)
+    {
+        <div>
+            <h2>@item.Name - @item.Surname</h2>
+        </div>
+    }
+</body>
 </html>

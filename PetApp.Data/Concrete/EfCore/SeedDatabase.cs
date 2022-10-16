@@ -15,11 +15,13 @@ namespace PetApp.Data.Concrete.EfCore
             if (context.Owners.Count() == 0)
             {
                 context.Owners.AddRange(Owners);
+                context.SaveChanges();
             }
 
             if (context.Pets.Count() == 0)
             {
                 context.Pets.AddRange(Pets);
+                context.SaveChanges();
             }
         }
 

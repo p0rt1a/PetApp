@@ -62,3 +62,13 @@ C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\bin\Debug\netcoreapp3.1\P
 C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\bin\Debug\netcoreapp3.1\PetApp.Entity.pdb
 C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\bin\Debug\netcoreapp3.1\PetApp.Business.dll
 C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\bin\Debug\netcoreapp3.1\PetApp.Business.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\bin\Debug\netcoreapp3.1\PetApp.WebUI.Views.dll
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\bin\Debug\netcoreapp3.1\PetApp.WebUI.Views.pdb
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.TagHelpers.input.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.TagHelpers.output.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.RazorCoreGenerate.cache
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\alper\Desktop\My Websites\PetApp\PetApp.WebUI\obj\Debug\netcoreapp3.1\PetApp.WebUI.Views.pdb

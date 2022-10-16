@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetApp.WebUI", "PetApp.WebU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetApp.Entity", "PetApp.Entity\PetApp.Entity.csproj", "{DD27FBF9-F15B-41F2-8B44-5AAA9C3EA2EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetApp.Data", "PetApp.Data\PetApp.Data.csproj", "{6ECCF0E5-909E-47D5-BD20-0A573ACF0666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetApp.Business", "PetApp.Business\PetApp.Business.csproj", "{C484230D-AF44-4E4C-B1F0-1B838AC27954}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DD27FBF9-F15B-41F2-8B44-5AAA9C3EA2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD27FBF9-F15B-41F2-8B44-5AAA9C3EA2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD27FBF9-F15B-41F2-8B44-5AAA9C3EA2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECCF0E5-909E-47D5-BD20-0A573ACF0666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECCF0E5-909E-47D5-BD20-0A573ACF0666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECCF0E5-909E-47D5-BD20-0A573ACF0666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECCF0E5-909E-47D5-BD20-0A573ACF0666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C484230D-AF44-4E4C-B1F0-1B838AC27954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C484230D-AF44-4E4C-B1F0-1B838AC27954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C484230D-AF44-4E4C-B1F0-1B838AC27954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C484230D-AF44-4E4C-B1F0-1B838AC27954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
